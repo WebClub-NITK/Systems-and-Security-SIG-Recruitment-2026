@@ -50,7 +50,7 @@ You are provided with a starter repository at [WebClub-NITK/systems-containeriza
      - Raw output of `docker network inspect` and network isolation tests for Phase 4.
      - SSL configuration and redirection verification for Phase 5.
      - Docker layer cache hit/miss analysis with build logs for Phase 6.
-     - If attempting bonus phases: complete raw output comparing single-instance vs. scaled load tests for Phase 7.
+     - If attempting bonus phases: complete raw output comparing single-instance vs. scaled load tests for Phase 7, and evidence of non-root container configuration (e.g. `docker exec ... whoami`) plus a screenshot of a successful GitHub Actions run for Phase 8.
 
 # Resources
 

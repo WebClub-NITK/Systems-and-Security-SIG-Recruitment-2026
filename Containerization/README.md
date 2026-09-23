@@ -61,3 +61,10 @@ You are provided with a starter repository at [WebClub-NITK/systems-containeriza
 - [Let's Encrypt / Certbot Documentation](https://certbot.eff.org/)
 - [wrk — Modern HTTP Benchmarking Tool](https://github.com/wg/wrk)
 - [GitHub Actions: Publishing Docker Images](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images)
+
+---
+
+# Mentor's Details
+
+1. Lucky Verma (+91 9216932462, GitHub: [KALI-THE-HACKER](https://github.com/KALI-THE-HACKER))
+2. Antony Thaikadavil (+91 8976086924, GitHub: [Antonyth18](https://github.com/antonyth18))
